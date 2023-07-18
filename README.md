@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SalahAlDin2021&theme=dracula&hide_border=true" alt = "Salahaldin Rating" width = 400 >
 </p>
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SalahAlDin2001&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "SalahAlDin Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SalahAlDin2021&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "SalahAlDin Languages/Frameworks" width = 400 />
 </p>
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
